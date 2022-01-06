@@ -11,7 +11,7 @@
 | SOL-VerificaC19-CPP-LINUX | C++            | Official   | [Dependabot / Code Scans](https://github.com/VC19-SDK/sol-verificaC19-sdk-cpp-linux/security) | [CodeQL](https://github.com/VC19-SDK/sol-verificaC19-sdk-cpp-linux/actions) |
 | HRNEXT SDK Spring         | Spring/Java    | Official   | [Dependabot / Code Scans](https://github.com/VC19-SDK/it-dgc-verificac19-spring/security) | [CodeQL](https://github.com/VC19-SDK/it-dgc-verificac19-spring/actions) |
 | VerificaC19 SDK Python    | Python         | Review     | [Dependabot / Code Scans](https://github.com/VC19-SDK/pyverificac19/security) | [CodeQL](https://github.com/VC19-SDK/pyverificac19/actions) |
-| DGC Rust                  | Rust           | Review     | [Dependabot / (_Code Scans - WIP_)](https://github.com/VC19-SDK/dgc/security) | [(_WIP_)](https://github.com/VC19-SDK/dgc/actions) |
+| DGC Rust                  | Rust           | Review     | [Dependabot / (_Code Scans - WIP_)](https://github.com/VC19-SDK/dgc/security) | [DevSkim](https://github.com/VC19-SDK/dgc/actions) |
 | VerificaC19-Flutter       | Flutter        | Review     | [Dependabot / (_Code Scans - WIP_)](https://github.com/VC19-SDK/verificaC19-flutter/security) | [(_WIP_)](https://github.com/VC19-SDK/verificaC19-flutter/actions) |
 
 ----------------------------
