@@ -26,3 +26,13 @@
 | [verificac19-sdk](https://github.com/italia/verificac19-sdk )   | Node.js |  08/12/2021    |  ✅<br>v0.5.0     |  ✅<br>v0.6.0     | ✅<br>v0.7.0   | 
 | [solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux](https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux)| C++| 10/12/2021 | ✅<br>v1.0.4       |   ✅<br>v1.1.2      |   ✅<br>v1.1.1      | 
 | [hrnext/it-dgc-verificac19-spring](https://github.com/hrnext/it-dgc-verificac19-spring) | Java/Spring | 16/12/2021 | ✅<br>v0.0.2      |  ❌      |  ❌      | 
+
+----------------------------
+
+## Pending-Review SDK/Libraries - status (feature alignment with VerificaC19 DGC-SDK updates)
+
+| SDK/Library                                                             | Language     | Repo                          | SGP ScanMode  | CRL/DRL       | Booster Scanmode | 
+| ----------------------------------------------------------------------- | :----------: | :---------------------------: | :-----------: | :-----------: | :--------------: | 
+| [VerificaC19 SDK Python](https://github.com/lotrekagency/pyverificac19) | Python       | lotrekagency/pyverificac19    | WIP (feature/booster) | WIP (feat/crl) | WIP (feature/booster) |
+| [DGC Rust](https://github.com/rust-italia/dgc)                          | Rust         | rust-italia/dgc               | ❌            | ❌           | ❌               |
+| [VerificaC19-Flutter](https://github.com/mastro993/verificaC19-flutter) | Dart/Flutter | mastro993/verificaC19-flutter | ✅<br>v1.0.10 | ✅<br>v1.1.0 | ✅<br>v1.2.0     |
