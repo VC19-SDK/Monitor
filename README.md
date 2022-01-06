@@ -1,7 +1,7 @@
 # Monitor
 ## SDK - Code Monitor (_Dependencies, Commits, PR, Vulnerability Alerts_)
 
-| SDK/Library               | Language       | Status     | Security Alerts (private) | Status | Workflows (pub/pvt) |
+| SDK/Library               | Language       | Status     | Security Alerts (private) | Checks | Workflows (pub/pvt) |
 |---------------------------|----------------|------------|---------------------------|--------|---------------------|
 | VerificaC19 DGC-SDK       | Android/Kotlin | Whitelabel | [Dependabot / Code Scans](https://github.com/VC19-SDK/it-dgc-verificac19-sdk-android/security) | ✅ | [CodeQL](https://github.com/VC19-SDK/it-dgc-verificac19-sdk-android/actions) |
 | Herald SI                 | PHP            | Official   | [Dependabot / Code Scans](https://github.com/VC19-SDK/verificac19-sdk-php/security) | ✅ | [DevSkim + Psalm](https://github.com/VC19-SDK/verificac19-sdk-php/actions) |
