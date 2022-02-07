@@ -33,6 +33,6 @@
 
 | SDK/Library                                                             | Language     | Repo                          | SGP           | CRL/DRL       | Booster          | Exemptions | School | Work |
 | ----------------------------------------------------------------------- | :----------: | :---------------------------: | :-----------: | :-----------: | :--------------: | :-: | :-: | :-: |
-| [VerificaC19 SDK Python](https://github.com/lotrekagency/pyverificac19) | Python       | lotrekagency/pyverificac19    | ✅<br>v1.1.0  | ✅<br>v1.1.0 | ✅<br>v1.1.0     | ❌ | ❌ | ❌ |
+| [VerificaC19 SDK Python](https://github.com/lotrekagency/pyverificac19) | Python       | lotrekagency/pyverificac19    | ✅<br>v1.1.0  | ✅<br>v1.1.0 | ✅<br>v1.1.0     | ✅<br>v1.2.0 | ❌ | ❌ |
 | [DGC Rust](https://github.com/rust-italia/dgc)                          | Rust         | rust-italia/dgc               | ❌            | ❌           | ❌               | ❌ | ❌ | ❌ |
 | [VerificaC19-Flutter](https://github.com/mastro993/verificaC19-flutter) | Dart/Flutter | mastro993/verificaC19-flutter | ✅<br>v1.0.10 | ✅<br>v1.1.0 | ✅<br>v1.2.0     | ✅<br>v1.2.3 | ❌ | ❌ |
