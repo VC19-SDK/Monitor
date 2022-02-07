@@ -20,12 +20,12 @@
 
 | SDK/Library | Language  | Validation | SGP | CRL/DRL | Booster| Exemptions | School | Work | 
 | -----------    | :-: | :-:      |  :-:      |  :-:      |  :-:      | :-: | :-: | :-: | 
-| [herald-si/verificac19-sdk-php](https://github.com/herald-si/verificac19-sdk-php)| PHP| 18/11/2021 |  ✅<br>v1.0.5      |  ✅<br>v1.1.0       |  ✅<br>v1.2.0      | ✅<br>v1.3.0 | ❌ | ❌ |
-| [ZConnectVerificaC19SDK](https://github.com/hrzucchetti/zconnect-verificaC19-sdk-ios) | IOS native (swift) | 07/12/2021 |  ✅<br>v1.0.4   |  ✅<br>v1.1.0       |  ✅<br>v1.1.1       | ✅<br>v1.1.2 | ❌ | ❌ |
+| [herald-si/verificac19-sdk-php](https://github.com/herald-si/verificac19-sdk-php)| PHP| 18/11/2021 |  ✅<br>v1.0.5      |  ✅<br>v1.1.0       |  ✅<br>v1.2.0      | ✅<br>v1.3.0 | ✅<br>v1.4.3 | ❌ |
+| [ZConnectVerificaC19SDK](https://github.com/hrzucchetti/zconnect-verificaC19-sdk-ios) | IOS native (swift) | 07/12/2021 |  ✅<br>v1.0.4   |  ✅<br>v1.1.0       |  ✅<br>v1.1.1       | ✅<br>v1.1.2 | ✅<br>v1.1.5 | ❌ |
 | [DgcReader](https://github.com/DevTrevi/DgcReader) | .NET / .NET Framework | 07/12/2021 | ✅<br>v1.3.0 | ✅<br>v2.0.0 | ✅<br>v2.1.0 | ✅<br>v2.3.0 | ✅<br>v2.4.0 | ❌ |
-| [verificac19-sdk](https://github.com/italia/verificac19-sdk )   | Node.js |  08/12/2021    |  ✅<br>v0.5.0     |  ✅<br>v0.6.0     | ✅<br>v0.7.0   | ❌ | ❌ | ❌ |
-| [solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux](https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux)| C++| 10/12/2021 | ✅<br>v1.0.4       |   ✅<br>v1.1.2      |   ✅<br>v1.1.1      | ✅<br>v1.1.3 | ❌ | ❌ |
-| [hrnext/it-dgc-verificac19-spring](https://github.com/hrnext/it-dgc-verificac19-spring) | Java/Spring | 16/12/2021 | ✅<br>v0.0.2      |  ✅<br>v0.0.3      |  ✅<br>v0.0.3      | ❌ | ❌ | ❌ |
+| [verificac19-sdk](https://github.com/italia/verificac19-sdk )   | Node.js |  08/12/2021    |  ✅<br>v0.5.0     |  ✅<br>v0.6.0     | ✅<br>v0.7.0   | ✅<br>v0.8.0 | ❌ | ❌ |
+| [solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux](https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux)| C++| 10/12/2021 | ✅<br>v1.0.4       |   ✅<br>v1.1.2      |   ✅<br>v1.1.1      | ✅<br>v1.1.3 | ✅<br>v1.1.4 | ✅<br>v1.1.4 |
+| [hrnext/it-dgc-verificac19-spring](https://github.com/hrnext/it-dgc-verificac19-spring) | Java/Spring | 16/12/2021 | ✅<br>v0.0.2      |  ✅<br>v0.0.3      |  ✅<br>v0.0.3      | WIP<br>v0.0.4 | ❌ | ❌ |
 
 ----------------------------
 
