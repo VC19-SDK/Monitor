@@ -18,21 +18,21 @@
 
 ## Official SDK/Libraries - status (feature alignment with VerificaC19 DGC-SDK updates)
 
-| SDK/Library | Language  | Validation | SGP | CRL/DRL | Booster| Exemptions | School | Work | 
-| -----------    | :-: | :-:      |  :-:      |  :-:      |  :-:      | :-: | :-: | :-: | 
-| [herald-si/verificac19-sdk-php](https://github.com/herald-si/verificac19-sdk-php)| PHP| 18/11/2021 |  ✅<br>v1.0.5      |  ✅<br>v1.1.0       |  ✅<br>v1.2.0      | ✅<br>v1.3.0 | ✅<br>v1.4.3 | WIP |
-| [ZConnectVerificaC19SDK](https://github.com/hrzucchetti/zconnect-verificaC19-sdk-ios) | IOS native (swift) | 07/12/2021 |  ✅<br>v1.0.4   |  ✅<br>v1.1.0       |  ✅<br>v1.1.1       | ✅<br>v1.1.2 | ✅<br>v1.1.5 | ✅<br>v1.1.6 |
-| [DgcReader](https://github.com/DevTrevi/DgcReader) | .NET / .NET Framework | 07/12/2021 | ✅<br>v1.3.0 | ✅<br>v2.0.0 | ✅<br>v2.1.0 | ✅<br>v2.3.0 | ✅<br>v2.4.0 | WIP |
-| [verificac19-sdk](https://github.com/italia/verificac19-sdk )   | Node.js |  08/12/2021    |  ✅<br>v0.5.0     |  ✅<br>v0.6.0     | ✅<br>v0.7.0   | ✅<br>v0.8.0 | ❌ | ❌ |
-| [solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux](https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux)| C++| 10/12/2021 | ✅<br>v1.0.4       |   ✅<br>v1.1.2      |   ✅<br>v1.1.1      | ✅<br>v1.1.3 | ✅<br>v1.1.4 | ✅<br>v1.1.4 |
-| [hrnext/it-dgc-verificac19-spring](https://github.com/hrnext/it-dgc-verificac19-spring) | Java/Spring | 16/12/2021 | ✅<br>v0.0.2      |  ✅<br>v0.0.3      |  ✅<br>v0.0.3      | ✅<br>v0.0.4 | ❌ | ❌ |
+| SDK/Library | Language  | Validation | SGP | CRL/DRL | Booster| Exemptions | School | Work | Entry DL5/2022 | 
+| -----------    | :-: | :-:      |  :-:      |  :-:      |  :-:      | :-: | :-: | :-: | :-: |
+| [herald-si/verificac19-sdk-php](https://github.com/herald-si/verificac19-sdk-php)| PHP| 18/11/2021 |  ✅<br>v1.0.5      |  ✅<br>v1.1.0       |  ✅<br>v1.2.0      | ✅<br>v1.3.0 | ✅<br>v1.4.3 | WIP | WIP |
+| [ZConnectVerificaC19SDK](https://github.com/hrzucchetti/zconnect-verificaC19-sdk-ios) | IOS native (swift) | 07/12/2021 |  ✅<br>v1.0.4   |  ✅<br>v1.1.0       |  ✅<br>v1.1.1       | ✅<br>v1.1.2 | ✅<br>v1.1.5 | ✅<br>v1.1.6 | WIP<br>v1.1.7 |
+| [DgcReader](https://github.com/DevTrevi/DgcReader) | .NET / .NET Framework | 07/12/2021 | ✅<br>v1.3.0 | ✅<br>v2.0.0 | ✅<br>v2.1.0 | ✅<br>v2.3.0 | ✅<br>v2.4.0 | WIP | WIP |
+| [verificac19-sdk](https://github.com/italia/verificac19-sdk )   | Node.js |  08/12/2021    |  ✅<br>v0.5.0     |  ✅<br>v0.6.0     | ✅<br>v0.7.0   | ✅<br>v0.8.0 | ❌ | ❌ | ❌ |
+| [solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux](https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux)| C++| 10/12/2021 | ✅<br>v1.0.4       |   ✅<br>v1.1.2      |   ✅<br>v1.1.1      | ✅<br>v1.1.3 | ✅<br>v1.1.4 | ✅<br>v1.1.4 | ❌ |
+| [hrnext/it-dgc-verificac19-spring](https://github.com/hrnext/it-dgc-verificac19-spring) | Java/Spring | 16/12/2021 | ✅<br>v0.0.2      |  ✅<br>v0.0.3      |  ✅<br>v0.0.3      | ✅<br>v0.0.4 | WIP | ❌ | ❌ |
 
 ----------------------------
 
 ## Pending-Review SDK/Libraries - status (feature alignment with VerificaC19 DGC-SDK updates)
 
-| SDK/Library                                                             | Language     | Repo                          | SGP           | CRL/DRL       | Booster          | Exemptions | School | Work |
-| ----------------------------------------------------------------------- | :----------: | :---------------------------: | :-----------: | :-----------: | :--------------: | :-: | :-: | :-: |
-| [VerificaC19 SDK Python](https://github.com/lotrekagency/pyverificac19) | Python       | lotrekagency/pyverificac19    | ✅<br>v1.1.0  | ✅<br>v1.1.0 | ✅<br>v1.1.0     | ✅<br>v1.2.0 | ❌ | ❌ |
-| [DGC Rust](https://github.com/rust-italia/dgc)                          | Rust         | rust-italia/dgc               | ❌            | ❌           | ❌               | ❌ | ❌ | ❌ |
-| [VerificaC19-Flutter](https://github.com/mastro993/verificaC19-flutter) | Dart/Flutter | mastro993/verificaC19-flutter | ✅<br>v1.0.10 | ✅<br>v1.1.0 | ✅<br>v1.2.0     | ✅<br>v1.2.3 | ❌ | ❌ |
+| SDK/Library                                                             | Language     | Repo                          | SGP           | CRL/DRL       | Booster          | Exemptions | School | Work | Entry DL5/2022 |
+| ----------------------------------------------------------------------- | :----------: | :---------------------------: | :-----------: | :-----------: | :--------------: | :-: | :-: | :-: | :-: |
+| [VerificaC19 SDK Python](https://github.com/lotrekagency/pyverificac19) | Python       | lotrekagency/pyverificac19    | ✅<br>v1.1.0  | ✅<br>v1.1.0 | ✅<br>v1.1.0     | ✅<br>v1.2.0 | ❌ | ❌ | ❌ |
+| [DGC Rust](https://github.com/rust-italia/dgc)                          | Rust         | rust-italia/dgc               | ❌            | ❌           | ❌               | ❌ | ❌ | ❌ | ❌ |
+| [VerificaC19-Flutter](https://github.com/mastro993/verificaC19-flutter) | Dart/Flutter | mastro993/verificaC19-flutter | ✅<br>v1.0.10 | ✅<br>v1.1.0 | ✅<br>v1.2.0     | ✅<br>v1.2.3 | WIP | WIP | ❌ |
