@@ -35,8 +35,8 @@
 
 ## Pending-Review SDK/Libraries - status (feature alignment with VerificaC19 DGC-SDK updates)
 
-| SDK/Library                                                             | Language     | Repo                          | SGP           | CRL/DRL       | Booster          | Exemptions | School | Work | Entry DL5/2022 |
-| ----------------------------------------------------------------------- | :----------: | :---------------------------: | :-----------: | :-----------: | :--------------: | :-: | :-: | :-: | :-: |
-| [VerificaC19 SDK Python](https://github.com/lotrekagency/pyverificac19) | Python       | lotrekagency/pyverificac19    | ✅<br>v1.1.0  | ✅<br>v1.1.0 | ✅<br>v1.1.0     | ✅<br>v1.2.0 | ❌ | ❌ | ❌ |
-| [DGC Rust](https://github.com/rust-italia/dgc)                          | Rust         | rust-italia/dgc               | ❌            | ❌           | ❌               | ❌ | ❌ | ❌ | ❌ |
-| [VerificaC19-Flutter](https://github.com/mastro993/verificaC19-flutter) | Dart/Flutter | mastro993/verificaC19-flutter | ✅<br>v1.0.10 | ✅<br>v1.1.0 | ✅<br>v1.2.0     | ✅<br>v1.2.3 | WIP | WIP | ❌ |
+| SDK/Library | Language  | Repo | SGP | CRL/DRL | Booster | Exemptions | RSA | Work | Entry IT | DL5/2022 | 
+| ----------- | :-------: | :--: | :-: | :-----: | :-----: | :--------: | :-: | :--: | :------: | :------: |
+|[VerificaC19 SDK Python](https://github.com/lotrekagency/pyverificac19)|Python|lotrekagency/pyverificac19|✅<br>v1.1.0|✅<br>v1.1.0|✅<br>v1.1.0|✅<br>v1.2.0| ❌ | ❌ | ❌ | ❌ |
+|[DGC Rust](https://github.com/rust-italia/dgc)| Rust|rust-italia/dgc| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|[VerificaC19-Flutter](https://github.com/mastro993/verificaC19-flutter)|Dart/Flutter|mastro993/verificaC19-flutter|✅<br>v1.0.10|✅<br>v1.1.0|✅<br>v1.2.0|✅<br>v1.2.3|✅<br>v1.4.0|✅<br>v1.4.0|✅<br>v1.4.0|✅<br>v1.4.0|
