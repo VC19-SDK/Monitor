@@ -26,7 +26,7 @@
 |[verificac19-sdk](https://github.com/italia/verificac19-sdk )|Node.js|08/12/2021|✅<br>v0.5.0|✅<br>v0.6.0|✅<br>v0.7.0|✅<br>v0.8.0|✅<br>v0.9.0|✅<br>v0.9.0|✅<br>v0.9.0|✅<br>v0.9.0|
 |[solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux](https://github.com/solari-sviluppo-prodotti/sol-verificaC19-sdk-cpp-linux)|C++|10/12/2021|✅<br>v1.0.4|✅<br>v1.1.2|✅<br>v1.1.1|✅<br>v1.1.3|✅<br>v1.1.7|✅<br>v1.1.3|✅<br>v1.1.7|✅<br>v1.1.7|
 |[hrnext/it-dgc-verificac19-spring](https://github.com/hrnext/it-dgc-verificac19-spring)|Java/Spring|16/12/2021|✅<br>v0.0.2|✅<br>v0.0.3|✅<br>v0.0.3|✅<br>v0.0.4|✅<br>v0.1.0|✅<br>v0.1.0|✅<br>v0.1.0|✅<br>v0.1.0|
-|[VerificaC19-Flutter](https://github.com/mastro993/verificaC19-flutter)|Dart/Flutter|Flutter|07/03/2022|✅<br>v1.0.10|✅<br>v1.1.0|✅<br>v1.2.0|✅<br>v1.2.3|✅<br>v1.4.0|✅<br>v1.4.0|✅<br>v1.4.0|✅<br>v1.4.0|
+|[VerificaC19-Flutter](https://github.com/mastro993/verificaC19-flutter)|Dart/Flutter|07/03/2022|✅<br>v1.0.10|✅<br>v1.1.0|✅<br>v1.2.0|✅<br>v1.2.3|✅<br>v1.4.0|✅<br>v1.4.0|✅<br>v1.4.0|✅<br>v1.4.0|
 
 > **(!)** _SCHOOL scanmode is allowed only to the official VerificaC19 apps for iOS & Android._
 >
