@@ -28,9 +28,10 @@
 |[hrnext/it-dgc-verificac19-spring](https://github.com/hrnext/it-dgc-verificac19-spring)|Java/Spring|16/12/2021|✅<br>v0.0.2|✅<br>v0.0.3|✅<br>v0.0.3|✅<br>v0.0.4|✅<br>v0.1.0|✅<br>v0.1.0|✅<br>v0.1.0|✅<br>v0.1.0|
 |[VerificaC19-Flutter](https://github.com/mastro993/verificaC19-flutter)|Dart/Flutter|07/03/2022|✅<br>v1.0.10|✅<br>v1.1.0|✅<br>v1.2.0|✅<br>v1.2.3|✅<br>v1.4.0|✅<br>v1.4.0|✅<br>v1.4.0|✅<br>v1.4.0|
 
-> **(!)** _SCHOOL scanmode is allowed only to the official VerificaC19 apps for iOS & Android._
+> **(!)** _SCHOOL scanmode was allowed only to the official VerificaC19 apps for iOS & Android up to April 2022._
 >
-> _Current releases of third-party SDK/Libraries have already removed/disabled the support for such scanmode._
+> _April 2022 : removal of WORK scanmode_
+> _June 2022 : removal of ENTRY IT scanmode_
 
 ----------------------------
 
