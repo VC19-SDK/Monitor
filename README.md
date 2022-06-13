@@ -31,6 +31,7 @@
 > **(!)** _SCHOOL scanmode was allowed only to the official VerificaC19 apps for iOS & Android up to April 2022._
 >
 > _April 2022 : removal of WORK scanmode_
+> 
 > _June 2022 : removal of ENTRY IT scanmode_
 
 ----------------------------
