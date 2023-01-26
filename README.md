@@ -33,6 +33,8 @@
 > _April 2022 : removal of WORK scanmode_
 > 
 > _June 2022 : removal of ENTRY IT scanmode_
+>
+> _January 2023 : removal of SGP (2G) & RSA (Booster) scanmodes_
 
 ----------------------------
 
